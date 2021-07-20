@@ -6,4 +6,4 @@ id int primary key,
 namee varchar(255)
 );
 
---rollback drop table test139;
+--rollback drop table test1339;
