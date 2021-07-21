@@ -2,7 +2,7 @@
 
 --changeset gust:290
 create table testt290 ( 
-idd int primary key,
+id int primary key,
 namee varchar(255)
 );
 
