@@ -1,7 +1,7 @@
 --liquibase formatted sql
 
 --changeset Harish:1
-create table TestHS( 
+create table PradeepTable( 
 id int primary key,
 namee varchar(255)
 );
