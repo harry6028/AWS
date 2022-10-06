@@ -1,7 +1,7 @@
 --liquibase formatted sql
 
---changeset Karan:290
-create table teslaaa( 
+--changeset Karann:291
+create table checking12ch( 
 id int primary key,
 namee varchar(255)
 );
