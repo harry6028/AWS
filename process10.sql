@@ -1,7 +1,7 @@
 --liquibase formatted sql
 
 --changeset Sunil:290
-create table TestSunil( 
+create table TestSunill( 
 id int primary key,
 namee varchar(255)
 );
