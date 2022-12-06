@@ -1,9 +1,9 @@
 --liquibase formatted sql
 
---changeset Schrya:1
-create table SchryaTable( 
+--changeset Sarvana:1
+create table SarvanaTest( 
 id int primary key,
 namee varchar(255)
 );
 
---rollback drop table TestHS;
+--rollback drop table SarvanaTest;
